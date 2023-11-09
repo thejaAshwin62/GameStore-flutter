@@ -1,4 +1,5 @@
 # model
+Ecommerce GameStore app using flutter by DART language
 
 A new Flutter project.
 
